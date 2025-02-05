@@ -4,7 +4,7 @@ hide:
 ---
 
 
-A fim de aprovar nossas conclusões e as mudanças que foram realizadas, fizemos 2 entrevistas com usuários da aplicação, para conferir se realizamos boas escolhas e possíveis mudanças para melhorar nosso projeto. Nossa entrevista foi feita por meio de uma introdução em que nos apresentavámos e o usuário entrevistado concordava com o termo de consentimento, em seguida eram feitas perguntas sobre o uso do Moovit Web, posteriormente foi apresentado nosso protótipo e para finalizar o usuário respondia nosso questionário e tinha um espaço livre para considerações finais/sugestões.
+A fim de aprovar nossas conclusões e as mudanças que foram realizadas, fizemos 2 entrevistas com usuários da aplicação, para conferir se realizamos boas escolhas e possíveis mudanças para melhorar nosso projeto. Nossa entrevista foi feita por meio de uma introdução em que nos apresentavámos e o usuário entrevistado concordava com o termo de consentimento, em seguida eram feitas perguntas sobre o uso do Moovit Web, posteriormente foi apresentado nosso protótipo e para finalizar o usuário respondia nosso questionário e tinha um espaço livre para considerações finais/sugestões. As entrevistas foram conduzidas por: [Pedro Lopes](https://github.com/pLopess) e [Nathan Abreu](https://github.com/NathanAbreu)
 
 ### Heurísticas 
 
