@@ -55,7 +55,7 @@ Quais são os principais problemas na sua opinião? Muitos anúncios e GPS pouco
 
 Sugestão de melhoria no protótipo: melhorar o contraste de cores na tela que mistura laranja com cinza escuro.
 
-* Questionário* : https://docs.google.com/forms/d/19itbvrxPaMaRqBU4IHbYHZOkDe7v6siKn-2OLqEIT98/edit
+(Questionário)[https://docs.google.com/forms/d/19itbvrxPaMaRqBU4IHbYHZOkDe7v6siKn-2OLqEIT98/edit]
 
 Q1. 3
 Q2. 3
@@ -99,7 +99,7 @@ Quais são os principais problemas na sua opinião?  GPS ruim.
 
 Sugestão de melhoria no protótipo: contraste de cinza escuro e laranja não facilitou muito na visualização.
 
-* Questionário* : https://docs.google.com/forms/d/19itbvrxPaMaRqBU4IHbYHZOkDe7v6siKn-2OLqEIT98/edit
+(Questionário)[https://docs.google.com/forms/d/19itbvrxPaMaRqBU4IHbYHZOkDe7v6siKn-2OLqEIT98/edit]
 
 Q1. 3
 Q2. 4
